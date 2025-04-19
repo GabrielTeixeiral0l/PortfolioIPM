@@ -38,7 +38,8 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 
-[![Guias Para Web Design](https://img.shields.io/badge/Guias%20para%20Web%20Design-28A745?style=for-the-badge)](materiais/M_1.md) <br>
+[![Guias Para Web Design](https://img.shields.io/badge/Guias%20para%20Web%20Design-28A745?style=for-the-badge)](materiais/M_1.pdf) <br>
+[![Usabilidade no Desenvolvimento Web](https://img.shields.io/badge/Usabilidade%20no%20Desenvolvimento%20Web-28A745?style=for-the-badge)](materiais/M_2.pdf) <br>
 
 
 
