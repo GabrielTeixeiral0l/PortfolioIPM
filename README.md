@@ -5,7 +5,7 @@ Este portfólio documenta as aulas, apontamentos e exercícios da unidade curric
 O portfólio está dividido em quatro partes principais:
 
 - **Aulas**: Análise detalhada de cada aula da unidade curricular.
-- **Apontamentos**: Resumo dos principais conteúdos teóricos abordados.
+- **Materiais**: Resumo dos principais conteúdos teóricos abordados.
 - **Fichas**: Exercícios resolvidos, organizados por temas.
 - **Outros**: Ferramentas, curiosidades e conteúdos adicionais para expandir o conhecimento.
 
