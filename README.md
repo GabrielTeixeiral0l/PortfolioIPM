@@ -52,7 +52,7 @@ O portfólio está dividido em quatro partes principais:
 
 ---
 ##### Ferramentas
-
+[![WAVE - Acessibilidade Web](https://img.shields.io/badge/WAVE%20-%20Acessibilidade%20Web-blue?style=for-the-badge)](https://wave.webaim.org/)
 
 ##### Curiosidades
 
