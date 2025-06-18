@@ -42,7 +42,9 @@ O portfólio está dividido em quatro partes principais:
 #### Junho 2025
 [![Aula 12 - 03-06-2025](https://img.shields.io/badge/Aula%2012-03--06--2025-blue?style=for-the-badge)](aulas/03-06-2025.md) <br/>
 [![Aula 13 - 13-06-2025](https://img.shields.io/badge/Aula%2013-13--06--2025-blue?style=for-the-badge)](aulas/13-06-2025.md) <br/>
-[![Aula 14 - 16-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/16-06-2025.md) <br/> 16 17 e 18
+[![Aula 14 - 16-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/16-06-2025.md) <br/>
+[![Aula 15 - 17-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/17-06-2025.md) <br/>
+[![Aula 16 - 18-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/18-06-2025.md) <br/>
 
 ### Materiais
 
@@ -52,6 +54,8 @@ O portfólio está dividido em quatro partes principais:
 [![Usabilidade no Desenvolvimento Web](https://img.shields.io/badge/Usabilidade%20no%20Desenvolvimento%20Web-28A745?style=for-the-badge)](materiais/M_2.pdf) <br>
 [![Desenho de Sistemas Interativos](https://img.shields.io/badge/Desenho%20de%20Desenhos%20Interativos-28A745?style=for-the-badge)](materiais/M_3.pdf) <br>
 [![Elementos de Design](https://img.shields.io/badge/ELEMENTOS%20DE%20DESIGN-28A745?style=for-the-badge)](materiais/M_4.pdf) <br>
+[![Técnicas de Avaliação](https://img.shields.io/badge/técnicas%20%20de%20avaliação-28A745?style=for-the-badge)](materiais/M_5.pdf) <br>
+
 
 ### Fichas
 
