@@ -65,7 +65,8 @@ O portfólio está dividido em quatro partes principais:
 [![Trabalho Prático 2](https://img.shields.io/badge/Trabalho%20Prático%202-orange?style=for-the-badge)](fichas/trabalho_pratico_2.pdf) <br>
 [![Trabalho Prático 2 - apresentação](https://img.shields.io/badge/Trabalho%20Prático%202%20--%20apresentação-orange?style=for-the-badge)](fichas/trabalho_pratico_2_apresentacao.pdf) <br>
 [![Trabalho Prático 3](https://img.shields.io/badge/Trabalho%20Prático%203-orange?style=for-the-badge)](fichas/trabalho_pratico_3.pdf) <br>
-[![Trabalho Prático 4](https://img.shields.io/badge/Trabalho%20Prático%204-orange?style=for-the-badge)](fichas/trabalho_pratico_4.pdf) <br>
+[![Trabalho Final](https://img.shields.io/badge/Trabalho%20Final-orange?style=for-the-badge)](fichas/trabalho_pratico_4.pdf) <br>
+
 ### Outros
 
 ---
