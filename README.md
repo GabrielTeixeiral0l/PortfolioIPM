@@ -43,8 +43,8 @@ O portfólio está dividido em quatro partes principais:
 [![Aula 12 - 03-06-2025](https://img.shields.io/badge/Aula%2012-03--06--2025-blue?style=for-the-badge)](aulas/03-06-2025.md) <br/>
 [![Aula 13 - 13-06-2025](https://img.shields.io/badge/Aula%2013-13--06--2025-blue?style=for-the-badge)](aulas/13-06-2025.md) <br/>
 [![Aula 14 - 16-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/16-06-2025.md) <br/>
-[![Aula 15 - 17-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/17-06-2025.md) <br/>
-[![Aula 16 - 18-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/18-06-2025.md) <br/>
+[![Aula 15 - 17-06-2025](https://img.shields.io/badge/Aula%2015-17--06--2025-blue?style=for-the-badge)](aulas/17-06-2025.md) <br/>
+[![Aula 16 - 18-06-2025](https://img.shields.io/badge/Aula%2016-18--06--2025-blue?style=for-the-badge)](aulas/18-06-2025.md) <br/>
 
 ### Materiais
 
