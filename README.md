@@ -41,7 +41,8 @@ O portfólio está dividido em quatro partes principais:
 
 #### Junho 2025
 [![Aula 12 - 03-06-2025](https://img.shields.io/badge/Aula%2012-03--06--2025-blue?style=for-the-badge)](aulas/03-06-2025.md) <br/>
-
+[![Aula 13 - 13-06-2025](https://img.shields.io/badge/Aula%2013-13--06--2025-blue?style=for-the-badge)](aulas/13-06-2025.md) <br/>
+[![Aula 14 - 16-06-2025](https://img.shields.io/badge/Aula%2014-16--06--2025-blue?style=for-the-badge)](aulas/16-06-2025.md) <br/> 16 17 e 18
 
 ### Materiais
 
